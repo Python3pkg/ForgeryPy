@@ -40,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ForgeryPy'
-copyright = u'2012, BTHLabs'
+project = 'ForgeryPy'
+copyright = '2012, BTHLabs'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -183,8 +183,8 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'ForgeryPy.tex', u'ForgeryPy Documentation',
-   u'BTHLabs', 'manual'),
+  ('index', 'ForgeryPy.tex', 'ForgeryPy Documentation',
+   'BTHLabs', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -213,8 +213,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'forgerypy', u'ForgeryPy Documentation',
-     [u'BTHLabs'], 1)
+    ('index', 'forgerypy', 'ForgeryPy Documentation',
+     ['BTHLabs'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -227,8 +227,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ForgeryPy', u'ForgeryPy Documentation',
-   u'BTHLabs', 'ForgeryPy', 'One line description of project.',
+  ('index', 'ForgeryPy', 'ForgeryPy Documentation',
+   'BTHLabs', 'ForgeryPy', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -245,10 +245,10 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'ForgeryPy'
-epub_author = u'BTHLabs'
-epub_publisher = u'BTHLabs'
-epub_copyright = u'2012, BTHLabs'
+epub_title = 'ForgeryPy'
+epub_author = 'BTHLabs'
+epub_publisher = 'BTHLabs'
+epub_copyright = '2012, BTHLabs'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.

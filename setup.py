@@ -69,7 +69,7 @@ distutils.core.setup(
             'dictionaries/zones'
         ]
     },
-    author=u'Tomasz Wójcik',
+    author='Tomasz Wójcik',
     author_email='labs@tomekwojcik.pl',
     url='http://tomekwojcik.github.com/ForgeryPy/',
     download_url='http://github.com/tomekwojcik/ForgeryPy/tarball/v%s' % version,
